@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center"><img src="https://i.loli.net/2019/01/28/5c4f12b62c30f.jpg" /></p>
 
-<!--
-**InfiniteSynthesis/InfiniteSynthesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section>
+    <p align="center">心の奥に宿した　希望の光照らす勇気</p>
+    <p align="center">宇宙に届けて</p>
+    <br>
+    <p align="center">浮かび上がるその世界を忘れたくないから</p>
+    <p align="center">涙見せはしない</p>
+    <br>
+    <p align="center">いつかきっと辿り着ける</p>
+    <p align="center">ふたり描いたその未来へと</p>
+    <p align="center">時を繋げて</p>
+</section>
