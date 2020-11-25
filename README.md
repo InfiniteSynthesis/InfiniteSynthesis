@@ -1,12 +1,12 @@
 <img align='right' src="https://i.loli.net/2020/07/25/auOTmzGWMDKNl4Q.gif" width='150'>
 
-# 🍻TCV —— @InfiniteSynthesis
+# 🍻shenyu.tcv —— @InfiniteSynthesis
 
-◤ Previously an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team.
+I am currently a second-year MSCS student at Texas A&M University under the supervision of Prof.Juan Garay. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms. 
 
-&emsp;&emsp;&emsp;Currently learning *cryptography*, *distributed algorithms* and *blockchain*.
+Before that, I got my B.S. degree in Computer Science & Technology from Jilin University in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;You can go to my [personal website](https://istcv.site) or [directly mail me](mailto:shenyu.tcv@gmail.com) for more info.◢
+You can go to my [personal website](https://istcv.site) or [directly mail me](mailto:shenyu.tcv@gmail.com) for more info.
 
 > > > Let's pray for the resurrection of [Minori](https://zh.moegirl.org/Minori):
 
