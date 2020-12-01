@@ -6,7 +6,11 @@
 
 I am currently a second-year MSCS student at Texas A&M University under the supervision of Prof.Juan Garay. Before that, I got my B.S. degree in Computer Science & Technology from Jilin University in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms.
 
-You can go to my [personal website](https://istcv.site) or [directly mail me](mailto:shenyu.tcv@gmail.com) for more info.
+<p align="center">
+    <a href="https://istcv.site"><img src="https://img.shields.io/badge/Personal-Website-orange.svg?style=for-the-badge&labelColor=abcdef" alt="Personal Website"></a>
+    <a href="mailto:shenyu.tcv@gmail.com"><img src="https://img.shields.io/badge/Mail to-Me-pink?style=for-the-badge&labelColor=abcdef" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/shenyutcv/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=abcdef" alt="LinkedIn"></a>
+</p>
 
 > > > Let's pray for the resurrection of [Minori](https://zh.moegirl.org/Minori):
 
@@ -26,3 +30,5 @@ You can go to my [personal website](https://istcv.site) or [directly mail me](ma
         </td>
     </tr>
 </table>
+
+![Profile views](https://gpvc.arturio.dev/InfiniteSynthesis)
