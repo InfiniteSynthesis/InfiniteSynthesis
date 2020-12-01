@@ -1,10 +1,10 @@
-<img align='right' src="https://i.loli.net/2020/07/25/auOTmzGWMDKNl4Q.gif" width='150'>
+<!-- <img align='right' src="https://i.loli.net/2020/07/25/auOTmzGWMDKNl4Q.gif" width='150'> -->
 
 # 🍻shenyu.tcv —— @InfiniteSynthesis
 
-I am currently a second-year MSCS student at Texas A&M University under the supervision of Prof.Juan Garay. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms. 
+<p><img src="https://fn.storage.img.ztzl.moe/2020/12/01/readme-theme.jpg" alt="readme-theme.jpg" border="0" /></p>
 
-Before that, I got my B.S. degree in Computer Science & Technology from Jilin University in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. 
+I am currently a second-year MSCS student at Texas A&M University under the supervision of Prof.Juan Garay. Before that, I got my B.S. degree in Computer Science & Technology from Jilin University in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms.
 
 You can go to my [personal website](https://istcv.site) or [directly mail me](mailto:shenyu.tcv@gmail.com) for more info.
 
@@ -12,7 +12,7 @@ You can go to my [personal website](https://istcv.site) or [directly mail me](ma
 
 <table width="100%">
     <tr>
-        <td><a href="http://www.mangagamer.org/minori/" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/01/28/5c4f12b62c30f.jpg" /></a></td>
+        <td><a href="http://www.mangagamer.org/minori/" target="_blank" rel="noopener noreferrer"><img src="https://fn.storage.img.ztzl.moe/2020/07/27/mailtheme.jpg" alt="mailtheme" border="0" /></a></td>
         <td width="300px" valign="middle">
             <p align="center">心の奥に宿した　希望の光照らす勇気</p>
             <p align="center">宇宙に届けて</p>
