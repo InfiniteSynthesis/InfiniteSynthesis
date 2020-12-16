@@ -51,13 +51,13 @@ if __name__ == "__main__":
 
     blogInfo = fetch_blog()[:4]
     blogInfoMd = "\n\n".join(
-        ["[{title}]({url}) - {updated_at}".format(**item) for item in blogInfo]
+        ["[**{title}**]({url}) - {updated_at}".format(**item) for item in blogInfo]
     )
     rewritten = replace_chunk(readme_contents, "OnMyBlog", blogInfoMd)
 
     repoInfo = fetch_repo()[:4]
     repoInfoMd = "\n\n".join(
-        ["[{name}]({url}) - {updated_at} {description}".format(**item) for item in repoInfo]
+        ["[**{name}**]({url}) - {updated_at} *{description}*".format(**item) for item in repoInfo]
     )
     rewritten = replace_chunk(rewritten, "RecentUpdate", repoInfoMd)
 

@@ -2,7 +2,7 @@
 
 <p><img src="https://fn.storage.img.ztzl.moe/2020/12/01/readme-theme.jpg" alt="readme-theme.jpg" border="0" /></p>
 
-I am currently a second-year MSCS student at Texas A&M University under the supervision of Prof.Juan Garay. Before that, I got my B.S. degree in Computer Science & Technology from Jilin University in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms.
+I am currently a second-year MSCS student at [Texas A&M University](https://www.tamu.edu/) under the supervision of Prof. [Juan Garay](https://jagaray.com/). Before that, I got my B.S. degree in Computer Science & Technology from [Jilin University](https://global.jlu.edu.cn/) in July 2019. I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019. My research interests focus on blockchain protocols, cryptocurrencies, cryptography and distributed algorithms.
 
 <p align="center">
     <a href="https://shen-yu233.com"><img src="https://img.shields.io/badge/Personal-Website-F9BF45.svg?style=for-the-badge&labelColor=abcdef" alt="Personal Website"></a>
@@ -67,4 +67,4 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
     </tr>
 </table>
 
-<a>How this works?</a><a><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
+<a>How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
