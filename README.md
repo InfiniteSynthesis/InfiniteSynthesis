@@ -23,13 +23,13 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### On my blog
 
 <!-- OnMyBlogStart -->
-[My Collection](https://shen-yu233.com/#/article0001) - 2020-12-15
+[**My Collection**](https://shen-yu233.com/#/article0001) - 2020-12-15
 
-[travis-ci自动更新chromedriver](https://shen-yu233.com/#/article0018) - 2020-08-03
+[**travis-ci自动更新chromedriver**](https://shen-yu233.com/#/article0018) - 2020-08-03
 
-[笔记: 随机共识算法](https://shen-yu233.com/#/article0017) - 2020-07-18
+[**笔记: 随机共识算法**](https://shen-yu233.com/#/article0017) - 2020-07-18
 
-[笔记: 共识算法的轮数下界](https://shen-yu233.com/#/article0016) - 2020-07-08
+[**笔记: 共识算法的轮数下界**](https://shen-yu233.com/#/article0016) - 2020-07-08
 <!-- OnMyBlogEnd -->
 
 </td><td valign="top" width="33%">
@@ -37,13 +37,13 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[tcv](https://github.com/InfiniteSynthesis/tcv) - 2020-12-16 My personal website
+[**tcv**](https://github.com/InfiniteSynthesis/tcv) - 2020-12-16 *My personal website*
 
-[HomeworkSolutions](https://github.com/InfiniteSynthesis/HomeworkSolutions) - 2020-12-01 Homework solutions: Algorithm | Cryptography | Computer Architecture ...
+[**HomeworkSolutions**](https://github.com/InfiniteSynthesis/HomeworkSolutions) - 2020-12-01 *Homework solutions: Algorithm | Cryptography | Computer Architecture ...*
 
-[starlight](https://github.com/InfiniteSynthesis/starlight) - 2020-08-02 Starlight is a cross-platform layout engine which implements Flexbox. 
+[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-08-02 *Starlight is a cross-platform layout engine which implements Flexbox.*
 
-[multi-monitor-slide-wallpaper](https://github.com/InfiniteSynthesis/multi-monitor-slide-wallpaper) - 2020-06-10 Enable slide wallpaper for Win10 with multi monitors.
+[**multi-monitor-slide-wallpaper**](https://github.com/InfiniteSynthesis/multi-monitor-slide-wallpaper) - 2020-06-10 *Enable slide wallpaper for Win10 with multi monitors.*
 <!-- RecentUpdateEnd -->
 
 </td></tr></table>
