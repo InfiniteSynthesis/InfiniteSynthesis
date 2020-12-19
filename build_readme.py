@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     readme_contents = readme.open().read()
 
-    blogInfo = fetch_blog()[:4]
+    blogInfo = fetch_blog()[:5]
     blogInfoMd = "\n\n".join(
         ["[**{title}**]({url}) - {updated_at}".format(**item) for item in blogInfo]
     )

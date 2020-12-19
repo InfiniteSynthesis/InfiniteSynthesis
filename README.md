@@ -23,6 +23,8 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### On my blog
 
 <!-- OnMyBlogStart -->
+[**Github Actions自动更新Readme**](https://shen-yu233.com/#/article0019) - 2020-12-18
+
 [**My Collection**](https://shen-yu233.com/#/article0001) - 2020-12-15
 
 [**travis-ci自动更新chromedriver**](https://shen-yu233.com/#/article0018) - 2020-08-03
@@ -37,7 +39,7 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[**tcv**](https://github.com/InfiniteSynthesis/tcv) - 2020-12-16 *My personal website*
+[**tcv**](https://github.com/InfiniteSynthesis/tcv) - 2020-12-19 *My personal website*
 
 [**HomeworkSolutions**](https://github.com/InfiniteSynthesis/HomeworkSolutions) - 2020-12-01 *Homework solutions: Algorithm | Cryptography | Computer Architecture ...*
 
@@ -67,4 +69,4 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
     </tr>
 </table>
 
-<a>How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
+<a href="https://shen-yu233.com/#/article0019" target="_blank" rel="noopener noreferrer">How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
