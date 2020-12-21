@@ -1,4 +1,4 @@
-# 🍻shenyu.tcv @InfiniteSynthesis
+# 🍻Yu Shen @InfiniteSynthesis
 
 <p><img src="https://fn.storage.img.ztzl.moe/2020/12/01/readme-theme.jpg" alt="readme-theme.jpg" border="0" /></p>
 
