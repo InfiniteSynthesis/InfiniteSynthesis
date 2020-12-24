@@ -39,7 +39,7 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-12-22 *Starlight is a cross-platform layout engine which implements Flexbox.*
+[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-12-23 *Starlight is a cross-platform layout engine which implements Flexbox.*
 
 [**tcv**](https://github.com/InfiniteSynthesis/tcv) - 2020-12-19 *My personal website*
 
