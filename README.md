@@ -1,6 +1,4 @@
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="badge" align="right" />
-
-# 🍻Yu Shen @InfiniteSynthesis
+<h1> 🍻Yu Shen @InfiniteSynthesis <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="badge" align="right" /></h1>
 
 <p><img src="https://fn.storage.img.ztzl.moe/2020/12/01/readme-theme.jpg" alt="readme-theme.jpg" border="0" /></p>
 
