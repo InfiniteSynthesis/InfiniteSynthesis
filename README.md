@@ -1,3 +1,5 @@
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="badge" align="right" />
+
 # 🍻Yu Shen @InfiniteSynthesis
 
 <p><img src="https://fn.storage.img.ztzl.moe/2020/12/01/readme-theme.jpg" alt="readme-theme.jpg" border="0" /></p>
@@ -39,13 +41,15 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[**react-github-repo-cards**](https://github.com/InfiniteSynthesis/react-github-repo-cards) - 2020-12-27 *A beautiful card that displays Github repository infos.*
+[**react-github-repo-panel**](https://github.com/InfiniteSynthesis/react-github-repo-panel) - 2020-12-28
 
-[**iacr-eprint-push**](https://github.com/InfiniteSynthesis/iacr-eprint-push) - 2020-12-25 *Weekly pushes updates of specific topics on iacr eprint.*
+[**iacr-eprint-push**](https://github.com/InfiniteSynthesis/iacr-eprint-push) - 2020-12-25
 
-[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-12-23 *Starlight is a cross-platform layout engine which implements Flexbox.*
+[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-12-23
 
-[**tcv**](https://github.com/InfiniteSynthesis/tcv) - 2020-12-19 *My personal website*
+[**HomeworkSolutions**](https://github.com/InfiniteSynthesis/HomeworkSolutions) - 2020-12-01
+
+[**multi-monitor-slide-wallpaper**](https://github.com/InfiniteSynthesis/multi-monitor-slide-wallpaper) - 2020-06-10
 <!-- RecentUpdateEnd -->
 
 </td></tr></table>
