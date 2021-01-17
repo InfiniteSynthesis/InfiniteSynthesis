@@ -7,7 +7,8 @@ I am currently a second-year MSCS student at [Texas A&M University](https://www.
 <p align="center">
     <a href="https://shen-yu233.com"><img src="https://img.shields.io/badge/Personal-Website-F9BF45.svg?style=for-the-badge&labelColor=abcdef" alt="Personal Website"></a>
     <a href="mailto:shenyu.tcv@gmail.com"><img src="https://img.shields.io/badge/Mail to-Me-pink?style=for-the-badge&labelColor=abcdef" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/shenyutcv/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=abcdef" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/shenyutcv/"><img src="https://img.shields.io/badge/-Linkedin-0073B1?style=for-the-badge&logo=linkedin&labelColor=abcdef" alt="LinkedIn"></a>
+    <a href="https://twitter.com/cosmic_third"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&labelColor=abcdef" alt="Twitter"></a>
 </p>
 
 <table width="100%"><tr><td valign="top" width="33%">
