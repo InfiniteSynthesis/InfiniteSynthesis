@@ -1,6 +1,8 @@
 name: Build README
 
 on:
+  workflow_dispatch:
+    # For manually trigger
   schedule:
     - cron: '0 0 * * *'
 
@@ -34,5 +36,5 @@ jobs:
         git config --global user.email shenyu.tcv@gmail.com
         git config --global user.name InfiniteSynthesis
         git add -A
-        git commit -m "update README (Github Actions)" || exit 0
+        git commit -m "update README (bot)" || exit 0
         git push
