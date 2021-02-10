@@ -1,6 +1,9 @@
+from selenium import webdriver
 import requests
 import pathlib
 import re
+import time
+import json
 
 skippedRepo = ["InfiniteSynthesis", "tcv"]
 
@@ -17,8 +20,14 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 def fetch_blog():
-    blogApi = "https://raw.githubusercontent.com/InfiniteSynthesis/tcv/master/src/list/articles.json"
-    blogInfo = requests.get(blogApi).json()
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(options=options)
+    driver.get("https://shen-yu233.com/#/info")
+    time.sleep(5)
+    preText = driver.find_element_by_tag_name('pre').get_attribute("innerText")
+
+    blogInfo = json.loads(preText)
     blogInfo = sorted(blogInfo, key=lambda item: item.get("lastModify", 0), reverse=True)[:5]
 
     return [
