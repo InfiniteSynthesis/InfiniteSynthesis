@@ -13,7 +13,7 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Set up chromedriver
-      uses: nanasess/setup-chromedriver@1.0.1
+      uses: nanasess/setup-chromedriver@master
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
