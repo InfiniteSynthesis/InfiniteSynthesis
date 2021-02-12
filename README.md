@@ -15,6 +15,10 @@ I am currently a second-year MSCS student at [Texas A&M University](https://www.
 
 ### Highlights
 
+**The Bitcoin Cash Backbone Protocol** - 2021 - 06 - 06
+
+Manuscript [[ePrint](https://eprint.iacr.org/2021/143)]
+
 **Arctic Code Vault Contributor** - 2020 - 06 - 06
 
 TCV contributed code to several repositories in the 2020 GitHub Archive Program: [chromium/chromium](https://github.com/chromium/chromium), [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt), [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev), and more!
