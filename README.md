@@ -44,9 +44,9 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2021-02-20
+[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2021-02-21
 
-[**HomeworkSolutions**](https://github.com/InfiniteSynthesis/HomeworkSolutions) - 2021-01-25
+[**my-slides**](https://github.com/InfiniteSynthesis/my-slides) - 2021-02-21
 
 [**react-github-repo-panel**](https://github.com/InfiniteSynthesis/react-github-repo-panel) - 2020-12-28
 
