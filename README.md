@@ -28,6 +28,8 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### On my blog
 
 <!-- OnMyBlogStart -->
+[**Reading List**](https://shen-yu233.com/#/article0008) - 2021-02-23
+
 [**同步Bangumi动画进度到个人网站**](https://shen-yu233.com/#/article0020) - 2021-02-13
 
 [**Github Actions自动更新Readme**](https://shen-yu233.com/#/article0019) - 2020-12-18
@@ -35,8 +37,6 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 [**My Collection**](https://shen-yu233.com/#/article0001) - 2020-12-15
 
 [**travis-ci自动更新chromedriver**](https://shen-yu233.com/#/article0018) - 2020-08-03
-
-[**笔记: 随机共识算法**](https://shen-yu233.com/#/article0017) - 2020-07-18
 <!-- OnMyBlogEnd -->
 
 </td><td valign="top" width="33%">
