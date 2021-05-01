@@ -15,7 +15,7 @@ I am currently a second-year MSCS student at [Texas A&M University](https://www.
 
 ### Highlights
 
-**The Bitcoin Cash Backbone Protocol** - 2021 - 06 - 06
+**The Bitcoin Cash Backbone Protocol** - 2021 - 02 - 11
 
 Manuscript [[ePrint](https://eprint.iacr.org/2021/143)]
 
