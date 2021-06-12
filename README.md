@@ -44,6 +44,8 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
+[**anime-preview**](https://github.com/InfiniteSynthesis/anime-preview) - 2021-06-11
+
 [**my-slides**](https://github.com/InfiniteSynthesis/my-slides) - 2021-03-03
 
 [**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2021-02-21
@@ -51,8 +53,6 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 [**react-github-repo-panel**](https://github.com/InfiniteSynthesis/react-github-repo-panel) - 2020-12-28
 
 [**iacr-eprint-push**](https://github.com/InfiniteSynthesis/iacr-eprint-push) - 2020-12-25
-
-[**starlight**](https://github.com/InfiniteSynthesis/starlight) - 2020-12-23
 <!-- RecentUpdateEnd -->
 
 </td></tr></table>
