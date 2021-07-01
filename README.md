@@ -44,7 +44,7 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### Recent updates
 
 <!-- RecentUpdateStart -->
-[**anime-preview**](https://github.com/InfiniteSynthesis/anime-preview) - 2021-06-26
+[**anime-preview**](https://github.com/InfiniteSynthesis/anime-preview) - 2021-06-30
 
 [**my-slides**](https://github.com/InfiniteSynthesis/my-slides) - 2021-03-03
 
