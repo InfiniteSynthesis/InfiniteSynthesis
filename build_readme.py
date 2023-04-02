@@ -6,7 +6,7 @@ import re
 import time
 import json
 
-skippedRepo = ["InfiniteSynthesis", "tcv", "blog-comment"]
+skippedRepo = ["InfiniteSynthesis", "personal-website", "blog-comment"]
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -34,7 +34,7 @@ def fetch_blog():
     return [
         {
             "title": item["title"],
-            "url": "https://shenyu-official.icu/#/blog" + item["blogid"],
+            "url": "https://shenyu-official.icu/#/blog/" + item["blogid"],
             "updated_at": item["lastModify"],
         }
         for item in blogInfo
@@ -45,7 +45,7 @@ def fetch_repo():
     repoInfo = requests.get(githubRepoApi).json()
 
     for item in repoInfo:
-        if item["name"] in skippedRepo:
+        if item["name"] in skippedRepo or item["archived"] == True:
             repoInfo.remove(item)
 
     repoInfo = sorted(repoInfo, key=lambda item: item.get("pushed_at", 0), reverse=True)[:5]

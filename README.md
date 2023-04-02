@@ -82,4 +82,4 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 <p align="center">キミを届けたメロディく</p>
 </td></tr></table>
 
-<a href="https://shenyu-official.icu/#/blog0019" target="_blank" rel="noopener noreferrer">How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
+<a href="https://shenyu-official.icu/#/blog/0019" target="_blank" rel="noopener noreferrer">How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
