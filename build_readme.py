@@ -43,11 +43,7 @@ def fetch_blog():
 def fetch_repo():
     githubRepoApi = "https://api.github.com/users/InfiniteSynthesis/repos"
     repoInfo = requests.get(githubRepoApi).json()
-
-    for item in repoInfo:
-        if item["name"] in skippedRepo or item["archived"] == True:
-            repoInfo.remove(item)
-
+    repoInfo = [item for item in repoInfo if not (item["name"] in skippedRepo or item["archived"] == "true")]
     repoInfo = sorted(repoInfo, key=lambda item: item.get("pushed_at", 0), reverse=True)[:5]
 
     return [
