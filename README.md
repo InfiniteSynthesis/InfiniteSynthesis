@@ -58,7 +58,7 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### 🪐 Recent updates
 
 <!-- RecentUpdateStart -->
-[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2023-02-28
+[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2023-05-10
 
 [**testnet-faucet**](https://github.com/InfiniteSynthesis/testnet-faucet) - 2023-01-16
 
