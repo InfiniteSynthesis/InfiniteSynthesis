@@ -2,15 +2,14 @@
 
 <img src="https://ams03pap001files.storage.live.com/y4m3YvZKNY2e5_bVk-XVHftfCVzZKtcixjEou5GRLniVSHu4Qzokk9Ij4IKdEqWK_dVJ-DmyQ0izBGbe83wOU4x2zOpSkt2rvKFTKfEmLKUaAZgVO_ljA8w4XX9bs-4uIfp_40rIQb0eAvBDQ2diGMWHPYkAdYL_aKy8rlzmDqcf-Z-nabi7EKY5jl_HCNFpQon?width=1011&height=1024&cropmode=none" alt='readme-theme' align='right' width='33%' style='margin-left:10px'>
 
-I am currently a second-year Ph.D. student at [the University of Edinburgh](https://www.ed.ac.uk/) under the supervision of Prof. [Aggelos Kiayias](https://kiayias.com/).
+I am currently a third-year Ph.D. student at [the University of Edinburgh](https://www.ed.ac.uk/) under the supervision of Prof. [Aggelos Kiayias](https://kiayias.com/).
 Before that, I got my M.S. degree in Computer Science from [Texas A&M University](https://www.tamu.edu/).
 My master supervisor is Prof. [Juan Garay](https://jagaray.com/).
 I got my B.S. degree in Computer Science and Technology from [Jilin University](https://global.jlu.edu.cn/) in July 2019.
-I worked as an intern at [ByteDance](https://www.bytedance.com/) in cross-platform framework team from Aug 2018 to Aug 2019.
 
 I am broadly interested in the interplay of distributed algorithms and cryptography, especially the design and analysis of blockchain protocols.
 My recent research focus has been
-- Rethinking clock synchronization in a permissionless setting;
+- Permissionless consensus and clock synchronization;
 - Transaction order serialization with fair order. 
 
 <p align="center">
@@ -82,4 +81,5 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 <p align="center">キミを届けたメロディく</p>
 </td></tr></table>
 
-<a href="https://shenyu-official.icu/#/blog/0019" target="_blank" rel="noopener noreferrer">How this works?</a><a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" /><img src="https://gpvc.arturio.dev/InfiniteSynthesis" align="right" alt="Views Count"/></a>
+<a href="https://shenyu-official.icu/#/blog/0019" target="_blank" rel="noopener noreferrer">How this works?</a>
+<a><img src="https://github.com/InfiniteSynthesis/InfiniteSynthesis/workflows/Build%20README/badge.svg" align="right" alt="Build Readme badge" />
