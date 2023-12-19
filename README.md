@@ -57,15 +57,15 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 ### 🪐 Recent updates
 
 <!-- RecentUpdateStart -->
+[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2023-12-18
+
+[**tmux-tokyo-night**](https://github.com/InfiniteSynthesis/tmux-tokyo-night) - 2023-12-17
+
+[**curriculum-vitae**](https://github.com/InfiniteSynthesis/curriculum-vitae) - 2023-12-02
+
 [**GKS-22-TCC-Slides**](https://github.com/InfiniteSynthesis/GKS-22-TCC-Slides) - 2023-06-13
 
-[**reading-list**](https://github.com/InfiniteSynthesis/reading-list) - 2023-05-10
-
 [**testnet-faucet**](https://github.com/InfiniteSynthesis/testnet-faucet) - 2023-01-16
-
-[**curriculum-vitae**](https://github.com/InfiniteSynthesis/curriculum-vitae) - 2023-01-08
-
-[**anime-preview**](https://github.com/InfiniteSynthesis/anime-preview) - 2022-06-20
 <!-- RecentUpdateEnd -->
 
 </td></tr></table>
