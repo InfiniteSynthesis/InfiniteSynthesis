@@ -24,13 +24,13 @@ My recent research focus has been
 
 ### 💐 Highlights
 
-**Permissionless Clock Synchronization with Public Setup** - 2022-08-28
+**Proof-of-Work-based Consensus in Expected-Constant Time** - 2024-01-31
 
-To appear at [TCC '22](https://tcc.iacr.org/2022/) ([Full Version](https://eprint.iacr.org/2022/1220))
+To appear at Eurocrypt '24 ([Full Version](https://eprint.iacr.org/2023/1663))
 
-**On Bitcoin Cash’s Target Recalculation Functions** - 2021-09-28
+**Ordering Transactions with Bounded Unfairness** - 2024-01-31
 
-Accepted to [ACM AFT '21](https://aft.acm.org/aft21/program.html) ([Full Version](https://eprint.iacr.org/2021/143)).
+To appear at Eurocrypt '24 ([Full Version](https://eprint.iacr.org/2023/1253))
 
 <!-- **Arctic Code Vault Contributor** - 2020 - 06 - 06
 
