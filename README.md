@@ -1,6 +1,6 @@
 <h1> 🍻 Yu Shen <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="badge" align="right" /></h1>
 
-<img src="https://ams03pap001files.storage.live.com/y4m3YvZKNY2e5_bVk-XVHftfCVzZKtcixjEou5GRLniVSHu4Qzokk9Ij4IKdEqWK_dVJ-DmyQ0izBGbe83wOU4x2zOpSkt2rvKFTKfEmLKUaAZgVO_ljA8w4XX9bs-4uIfp_40rIQb0eAvBDQ2diGMWHPYkAdYL_aKy8rlzmDqcf-Z-nabi7EKY5jl_HCNFpQon?width=1011&height=1024&cropmode=none" alt='readme-theme' align='right' width='33%' style='margin-left:10px'>
+<img src="src/lisa-profile.jpg" alt='readme-theme' align='right' width='33%' style='margin-left:10px'>
 
 I am currently a third-year Ph.D. student at [the University of Edinburgh](https://www.ed.ac.uk/) under the supervision of Prof. [Aggelos Kiayias](https://kiayias.com/).
 Before that, I got my M.S. degree in Computer Science from [Texas A&M University](https://www.tamu.edu/).
@@ -74,7 +74,7 @@ TCV contributed code to several repositories in the 2020 GitHub Archive Program:
 
 <table width="100%"><tr><td>
 
-![panel-theme](https://ams03pap001files.storage.live.com/y4mgx_2zLILB2az6qIy-ejjnml7tkqA4K-jqxXK1gBrb6IUJHteP8WcBxc5IndRMbsIwejexqEO1SMpqghWXY1d8gAQojIja-F2mIQUDyBdUrOOqytLZc4WYnDi7evhLqmpZiJZ4orxjUXpLmLiMOPURClk8XH2-wqjFNBZUvuQh-f395Yo1SEvTcWNgLr6me2X?width=1920&height=1080&cropmode=none)
+![panel-theme](src/poppin-party.jpg)
 
 </td><td width="200px" valign="middle">
 <p align="center">約束したこの場所へ</p>
