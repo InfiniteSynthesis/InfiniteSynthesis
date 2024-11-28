@@ -2,9 +2,9 @@
 
 <img src="src/lisa-profile.jpg" alt='readme-theme' align='right' width='33%' style='margin-left:10px'>
 
-I am currently a third-year Ph.D. student at [the University of Edinburgh](https://www.ed.ac.uk/) under the supervision of Prof. [Aggelos Kiayias](https://kiayias.com/).
+I am currently a Ph.D. candidate at [the University of Edinburgh](https://www.ed.ac.uk/) under the supervision of [Prof. Aggelos Kiayias](https://kiayias.com/) and [Dr. Michele Ciampi](https://www.research.ed.ac.uk/en/persons/michele-ciampi).
 Before that, I got my M.S. degree in Computer Science from [Texas A&M University](https://www.tamu.edu/).
-My master supervisor is Prof. [Juan Garay](https://jagaray.com/).
+My master supervisor is [Prof. Juan Garay](https://jagaray.com/).
 I got my B.S. degree in Computer Science and Technology from [Jilin University](https://global.jlu.edu.cn/) in July 2019.
 
 I am broadly interested in the interplay of distributed algorithms and cryptography, especially the design and analysis of blockchain protocols.
@@ -24,17 +24,10 @@ My recent research focus has been
 
 ### 💐 Highlights
 
-**Proof-of-Work-based Consensus in Expected-Constant Time** - 2024-01-31
+**Universal Composable Transaction Serialization with Order Fairness** - 2024-08-16
 
-To appear at Eurocrypt '24 ([Full Version](https://eprint.iacr.org/2023/1663))
+Appears at CRYPTO '24 ([Full Version](https://eprint.iacr.org/2024/1296))
 
-**Ordering Transactions with Bounded Unfairness** - 2024-01-31
-
-To appear at Eurocrypt '24 ([Full Version](https://eprint.iacr.org/2023/1253))
-
-<!-- **Arctic Code Vault Contributor** - 2020 - 06 - 06
-
-TCV contributed code to several repositories in the 2020 GitHub Archive Program: [chromium/chromium](https://github.com/chromium/chromium), [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt), [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev), and more! -->
 
 </td><td valign="top" width="34%">
 
